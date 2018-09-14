@@ -2409,7 +2409,7 @@
     </param>
     <param>
       <key>output_index</key>
-      <value>chooser-1</value>
+      <value>chooser</value>
     </param>
     <param>
       <key>type</key>
